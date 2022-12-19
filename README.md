@@ -11,5 +11,8 @@ beacause if you find a problem but then don't accurately drill down to the reaso
 and merely putting a minor fix. This would be the difference between a good app and a great app.
 
 What does it mean to be a good team member in software development?
-
+  To be a good team member is to work along side other developers and make sure you are helping eachother out. It is always a good idea to make
+your fellow coworker gets help when needed. It is also imporant to communicate to everyone to make sure they know if you need help or if you
+need something new to work on. It is up to each team member to make sure they are getting their work done and helping out the rest of the team
+and if you get everyone to be on at least that level you will have a good team.
 
